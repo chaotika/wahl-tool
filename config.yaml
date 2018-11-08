@@ -1,0 +1,16 @@
+---
+title: Giving Game EA Frankfurt 2018
+options:
+  - A
+  - B
+  - C
+  - D
+  # - Against Malaria Foundation
+  # - Albert Schweitzer Stiftung
+  # - Machine Intelligence Research Institute
+  # - Cool Earth
+winner_threshold: 3
+#tie_breaker:
+#  - A
+#  - B
+#  - C
