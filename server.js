@@ -10,7 +10,7 @@ var bodyParser = require('body-parser')
 //app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 var server = require('http').Server(app)
-server.listen(8080)
+server.listen(8080,'127.5.6.7')
 app.use(express.static('.'))
 
 // database
